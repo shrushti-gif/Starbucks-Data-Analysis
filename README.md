@@ -17,10 +17,9 @@ It helps stakeholders understand customer behavior and identify the most profita
 - Product categories contributing highest to total sales  
 - Customer purchasing patterns visualized through slicers and filters  
 
-### 🖼️ Dashboard Preview
-![Starbucks Dashboard](https://github.com/shrushti-gif/Starbucks-Data-Analysis/blob/main/starbucks_dashboard_preview.png)
+
 
 ### 💡 Outcome
 This project demonstrates how Power BI can transform raw Starbucks data into actionable insights, supporting data-driven decision-making and performance optimization.
 
-![Starbucks Dashboard](https://github.com/shrushti-gif/Starbucks-Data-Analysis/blob/main/starbucks_dashboard_preview.png)
+
