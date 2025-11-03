@@ -22,4 +22,4 @@ It helps stakeholders understand customer behavior and identify the most profita
 ### 💡 Outcome
 This project demonstrates how Power BI can transform raw Starbucks data into actionable insights, supporting data-driven decision-making and performance optimization.
 
-
+https://github.com/shrushti-gif/Starbucks-Data-Analysis
